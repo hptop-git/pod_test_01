@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'pod_lib_test_01'
+  s.name             = 'pod_test_01'
   s.version          = '0.1.0'
   s.summary          = '테스트용 pod.'
 
